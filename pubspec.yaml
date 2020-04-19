@@ -1,0 +1,65 @@
+name: counter_bloc
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  rxdart: ^0.23.1
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Righteous
+      fonts:
+        - asset: fonts/Righteous-Regular.ttf
+    - family: Balance
+      fonts:
+        - asset: fonts/balance.ttf
+    - family: Beaker
+      fonts:
+        - asset: fonts/beaker.ttf
+    - family: Temperature
+      fonts:
+        - asset: fonts/temperature.ttf
+
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
